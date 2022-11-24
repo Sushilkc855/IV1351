@@ -1,7 +1,8 @@
 INSERT INTO person (first_name,street,person_number_UNIQUE,city,zip_code,last_name)
 VALUES
   ('Oliver','Ap #455-6882 Ut Road','1234567891','Lutsel K''e','79095','Andersson'),
-    ('John','Ap #455-6882 Ut Road','45435435345','Lutsel K''e','79095','gg');
+    ('John','Ap #455-6882 Ut Road','45435435345','Lutsel K''e','79095','gg')
+    ('ram', 'vagem', '5453423', 'stock', '24343', 'wick');
 
 INSERT INTO student (skill_level,student_identification_UNIQUE,number_of_lesson_taken, instrument )
 VALUES
